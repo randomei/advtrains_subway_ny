@@ -1,0 +1,6 @@
+# textdomain: advtrains_subway_ny
+Driver Stand (Left)=Driver Stand (Left)
+Driver Stand=Driver Stand
+Passenger Area=Passenger Area
+NY Subway Engine=NY Subway Engine
+NY Subway Wagon=NY Subway Wagon
